@@ -1,6 +1,6 @@
 # Shopping cart
 
-DEMO 👉 https://shopping-cart-rouge.vercel.app
+DEMO 👉 https://my-shop-brown.vercel.app/es
 
 This is an example of a shopping cart using [Typescript] and [Next.js]
 
