@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Shopping cart
+
+DEMO 👉 https://shopping-cart-rouge.vercel.app
+
+This is an example of a shopping cart using [Typescript] and [Next.js]
 
 ## Getting Started
 

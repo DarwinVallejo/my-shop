@@ -1,0 +1,13 @@
+{
+  "addToCart": "Agregar al carrito",
+  "quantity": "Cantidad",
+  "welcomeTitle": "Productos que te pueden interesar",
+  "cart": "Carrito",
+  "subtotal": "Subtotal",
+  "total": "Total",
+  "emptyCart": "No hay productos en el carrito",
+  "products": "Productos",
+  "clearCart": "Limpiar carrito",
+  "price": "Precio",
+  "productAdded": "Product agregado al carrito"
+}
